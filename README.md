@@ -15,8 +15,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![Sarb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarbzcode&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+### 📊 GitHub Stats!
+[Sarb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarbzcode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=7200)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarbzcode&layout=compact&theme=tokyonight)
 
