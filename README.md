@@ -13,12 +13,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
----
+---### 📊 GitHub Stats (Live)
+![Profile Views](https://komarev.com/ghpvc/?username=sarbzcode&color=blueviolet&style=flat)
 
-### 📊 GitHub Stats (Live)
 ![Saaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarbzcode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=7200)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarbzcode&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarbzcode&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarbzcode&layout=compact&theme=tokyonight&langs_count=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarbzcode&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
 
 
 ---
