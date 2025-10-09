@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Sarbjot (Saaj)
+# 👋 Hi, I'm Sarbjot
 🚀 2nd Year BCS (Data Analytics) @ Acadia University  
 💻 Passionate about Data Analytics, Full Stack Development & AI  
 🌐 Portfolio: [sarbzcode.com](https://sarbzcode.com)
@@ -16,7 +16,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Saaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarbzcode&show_icons=true&theme=tokyonight)
+![Sarb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarbzcode&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarbzcode&layout=compact&theme=tokyonight)
 
