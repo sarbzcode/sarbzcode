@@ -2,25 +2,8 @@
 # 👋 Hi, I'm Sarbjot
 🚀 2nd Year BCS (Data Analytics) @ Acadia University  
 💻 Passionate about Data Analytics, Full Stack Development & AI  
+⚙ Currently working with Shift-Sync(MERN Stack Project)
 🌐 Portfolio: [sarbzcode.com](https://sarbzcode.com)
-
----
-
-### 🧠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-
-
-
----
-
-### 🏆 GitHub Badges
-- 🥇 **100+ Commits Streak**
-- 🎯 **Contributor to Open Source Projects**
-- 🚀 **MERN Stack Projects**
 
 ---
 
